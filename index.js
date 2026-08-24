@@ -14,3 +14,5 @@ for (let i = 1; i <= pola; i++) {
     s += '\n'
 
 }
+
+console.log(s)
